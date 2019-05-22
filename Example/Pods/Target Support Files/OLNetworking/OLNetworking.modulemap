@@ -1,0 +1,6 @@
+framework module OLNetworking {
+  umbrella header "OLNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
